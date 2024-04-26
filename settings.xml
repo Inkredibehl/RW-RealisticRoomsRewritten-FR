@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>Salles réalistes</RealisticRoomsSettingsCategoryLabel>
+<SettingsLabelTip>Les niveaux inférieurs doivent être égaux ou inférieurs aux niveaux supérieurs. Il est recommandé de terminer par .5 en raison de la façon dont le jeu arrondit.</SettingsLabelTip>
+<SettingsRTLabel>Taille minimale pour Plutôt étroit</SettingsRTLabel>
+<SettingsASLabel>Taille minimale pour Taille moyenne</SettingsASLabel>
+<SettingsSSLabel>Taille minimale pour Assez spacieux</SettingsSSLabel>
+<SettingsQSLabel>Taille minimale pour Plutôt spacieux</SettingsQSLabel>
+<SettingsVSLabel>Taille minimale pour Très spacieux</SettingsVSLabel>
+<SettingsESLabel>Taille minimale pour Extrêmement spacieux</SettingsESLabel>
+<SettingsResetButton>Réinitialiser aux valeurs par défaut</SettingsResetButton>
+</LanguageData>
